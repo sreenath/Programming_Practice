@@ -1,6 +1,6 @@
 /* 
  * Author: Sreenath T V
- * https://www.hackerrank.com/challenges/plus-minus
+ * https://www.hackerrank.com/contests/projecteuler/challenges/euler001
  */
 
 import java.io.*;
