@@ -1,6 +1,6 @@
 ''' 
   Author: Sreenath T V
-    https://codility.com/demo/results/training7JF9SS-7GM/
+  https://codility.com/demo/results/training7JF9SS-7GM/
 '''
 
 def solution(A):
